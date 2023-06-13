@@ -1,0 +1,11 @@
+
+*{
+    margin: 0;
+}
+
+header{
+    background-color: #026466;
+    color: white;
+    height: 100px;
+    font-size: 28px ;
+}
